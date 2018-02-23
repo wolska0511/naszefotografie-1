@@ -1,2 +1,2 @@
-# ptaki.html
-ćwiczenie
+jak tam jest
+gdzie ty jesteś
