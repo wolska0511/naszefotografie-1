@@ -1,2 +1,58 @@
-jak tam jest
-gdzie ty jesteś
+
+= _Witajcie Fotomianiacy!!!_ 
+
+image::al.jpg[al.jpg,1000]
+
+https://wolska0511.github.io/naszefotografie/[Nasze Portfolio]
+
+
+[sidebar]
+== Źródła fotograficznych inspiracji:
+
+* <http://www.national-geographic.pl/fotografia>
+
+* <https://www.szerokikadr.pl/>
+
+* <https://fotoblogia.pl/2945,najbardziej-inspirujaceh-polskie-blogi-fotograficzne>
+
+== Bezpłatne programy do obróbki zdjęć 
+
+[options="footer"]
+|===
+| Program	|  Producent
+
+| Google Nik Collection	| Google
+| Polarr Photo Editor | Polarr
+| Fotor | Fotor
+| Autodesk Pixlr Editor | Autodesk
+| PicMonkey | PicMonkey
+|===
+Tabela. 1. Programy do obróbki zdjęć
+
+
+'''
+
+[quote, Dorothea Lange]
+____
+Wybierz temat i pracuj nad nim do wyczerpania… Musi to być coś, co naprawdę kochasz lub wyjątkowo nienawidzisz.
+____
+
+== Najciekawsze banki zdjęć
+[squere]
+. <http://www.magdeleine.com>
+
+. <http://www.foodiesfeed.com>
+
+. <http://www.kaboompics.com>
+
+. <http://www.unsplash.com>
+
+'''
+
+* [*] Fotografia
+* [x] Pasja
+* [x] Zaangażowanie
+
+icon:heart[2x] Ania i Lucyna
+
+image::aw.jpg[aw.jpg,1000]
