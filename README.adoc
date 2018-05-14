@@ -56,3 +56,9 @@ ____
 icon:heart[2x] Ania i Lucyna
 
 image::aw.jpg[aw.jpg,1000]
+
+
+[red]#Obvious# and [big red yellow-background]*very obvious*.
+
+[underline]#Underline text#, [overline]#overline text# and
+[blue line-through]*bold blue and line-through*.
