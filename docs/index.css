@@ -13,7 +13,7 @@ body {
 
 .one {
   grid-area: 1 / 1 / 4 / 4;
-  background-image: url("li.jpg");
+  background-image: url("k.jpg");
   background-color: black;
   background-size: cover;
   background-position: center;
@@ -21,7 +21,7 @@ body {
 
 .two {
   grid-area: 1 / 4 / 5 / 6;
-  background-image: url("kredki.JPG");
+  background-image: url("d.JPG");
   background-color: black;
   background-size: cover;
   background-position: center;
@@ -29,7 +29,7 @@ body {
 
 .three {
   grid-area: 4 / 1 / 7 / 3;
-  background-image: url("ru2.jpg");
+  background-image: url("r.jpg");
   background-color: black;
   background-size: cover;
   background-position: center;
@@ -37,7 +37,7 @@ body {
 
 .four {
   grid-area: 5 / 3 / 7 / 6;
-  background-image: url("ru.jpg");
+  background-image: url("a.jpg");
   background-color: black;
   background-size: cover;
   background-position: center;
@@ -45,7 +45,7 @@ body {
 
 .five {
   grid-area: 4 / 3 / 5 / 4;
-  background-image: url("no.jpg");
+  background-image: url("m.jpg");
   background-color: black;
   background-size: cover;
   background-position: center;
