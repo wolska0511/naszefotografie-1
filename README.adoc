@@ -3,9 +3,9 @@
 
 image::al.jpg[al.jpg,1000]
 
-.Nasze Portfolio
-[#img-sunset]
-[caption="Figure 1: ",link=https://wolska0511.github.io/naszefotografie/]
+.kliknij na fotografię
+[#img-pf]
+[caption="Nasze Portfolio: ",link=https://wolska0511.github.io/naszefotografie/]
 image::pf.jpg[Sunset,300,200]
 
 
