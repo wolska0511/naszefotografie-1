@@ -1,5 +1,5 @@
 
-= _Witajcie Fotomianiacy!!!_ 
+= _Witajcie Fotomaniacy!!!_ 
 
 image::al.jpg[al.jpg,1000]
 
