@@ -22,7 +22,7 @@ https://wolska0511.github.io/naszefotografie/[Nasze Portfolio]
 | Program	|  Producent
 
 | link:++https://www.google.com/nikcollection++[Google Nik Collection]	| Google
-| Polarr Photo Editor | Polarr
+| link:++https://photoeditor.polarr.co/++[Polarr Photo Editor] | Polarr
 | Fotor | Fotor
 | Autodesk Pixlr Editor | Autodesk
 | PicMonkey | PicMonkey
