@@ -25,7 +25,7 @@ Wspaniały plener, piękne światło, w rękach wymarzony cyfrak, a efekt na zdj
 | link:++https://www.google.com/nikcollection++[Google Nik Collection]	| Google
 | link:++https://photoeditor.polarr.co/++[Polarr Photo Editor] | Polarr
 | link:++https://www.fotor.com/++[Fotor] | Fotor
-| Autodesk Pixlr Editor | Autodesk
+| link:++https://pixlr.com/++Autodesk Pixlr Editor | Autodesk
 | PicMonkey | PicMonkey
 |===
 Tabela. 1. Programy do obróbki zdjęć
