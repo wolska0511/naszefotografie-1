@@ -5,7 +5,7 @@ image::al.jpg[al.jpg,1000]
 
 .kliknij na fotografię
 [#img-pf]
-[caption="Nasze Portfolio: ",link=https://wolska0511.github.io/naszefotografie/]
+[caption="Nasze Portfolio: ",link=https://lucynaszczygiel.github.io/naszefotografie/]
 image::pf.jpg[Sunset,300,200]
 
 '''
