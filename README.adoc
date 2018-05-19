@@ -56,10 +56,9 @@ ____
 Trudno sobie dziś wyobrazić fotografię bez barw. Mimo, iż zdjęcia czarno białe często uchodzą za bardziej artystyczne, to jednak żaden z nas nie zrezygnowałby z możliwości fotografowania w kolorze. Barwa w fotografii, podobnie jak kompozycja, czy kadrowanie, wymaga jednak przestrzegania pewnych reguł, aby mogła oddziaływać na odbiorcę naszych zdjęć w odpowiedni sposób, lub mówiąc wprost – "podobała się". Reguły te są tematem obecnego odcinka naszego cyklu dotyczącego podstaw fotografii.
 
 <<<
-* [*] Fotografia
-* [x] Pasja
-* [x] Zaangażowanie
+[*] Fotografia
+[x] Pasja
+[x] Zaangażowanie
 
-icon:heart[2x] Ania i Lucyna
 
 image::aw.jpg[aw.jpg,1000]
